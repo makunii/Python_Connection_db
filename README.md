@@ -1,7 +1,11 @@
 # Python_Connection_db
 Este respositório contém os códigos para conexão com diversos banco de dados.
 
-SQL commands are grouped into four major categories depending on their functionality:
+
+
+
+
+# SQL commands are grouped into four major categories depending on their functionality:
 
 Data Definition Language (DDL) 
 - These SQL commands are used for creating, modifying, and dropping the structure of database objects.
