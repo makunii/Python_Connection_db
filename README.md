@@ -3,7 +3,7 @@ Este respositório contém os códigos para conexão com diversos banco de dados
 
 
 Data Definition Language (DDL) 
-- These SQL commands are used for creating, modifying, and dropping the structure of database objects. 
+- These SQL commands are used for creating, modifying, and dropping the structure of database objects.\n
 The commands are CREATE, ALTER, DROP, RENAME, and TRUNCATE.
 
 Data Manipulation Language (DML) 
